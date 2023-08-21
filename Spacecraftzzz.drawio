@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T09:28:00.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" etag="rILu-2DhDy4B1ZAfkejw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T09:39:02.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="8i2kqZc7gL7YAlNzh-wL" version="21.6.8" type="github">
   <diagram name="Page-1" id="_Ul8I6sfY-4WNgqRWe-r">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-1" target="FTzpLbrf7f_VMWXnVFsw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-1" target="FTzpLbrf7f_VMWXnVFsw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-2" target="FTzpLbrf7f_VMWXnVFsw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-2" target="FTzpLbrf7f_VMWXnVFsw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-2" target="FTzpLbrf7f_VMWXnVFsw-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTzpLbrf7f_VMWXnVFsw-2" target="FTzpLbrf7f_VMWXnVFsw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-2" value="Lander" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-6" value="Radioisotope thermoelectric generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-8" value="Water reclaimer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-10" value="Toilet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-12" value="Passenger seats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-14" value="Comm system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTzpLbrf7f_VMWXnVFsw-17" value="Heat regulation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
